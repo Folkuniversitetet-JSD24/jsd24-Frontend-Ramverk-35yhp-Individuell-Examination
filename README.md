@@ -51,4 +51,9 @@ Du kommer behöva skapa en "tenant" (ditt namn på din foodtruck) först med hj�
 
 ## Inlämning
 
-Inlämning av examination sker på Azomo med länk till ditt Githubrepo senast **torsdagen den 13/3 kl 23:59**.
+Inlämning av examination sker på Azomo med länk till ditt Githubrepo senast **fredag den 14/3 kl 22:59**.
+
+## Redovisning/presentationer: 
+Alla skall vara förberedd för live presentationer på fredag (14/3) kl 13-15.30. Max presentationstid/inspelningstid: 10 min.
+De som inte presenterar live, behöver skicka in presentationsinspelning (10 min) till Mandus senast 14/3 22.59.
+Hemst gärna samla repo och inspelning tillsammans.
